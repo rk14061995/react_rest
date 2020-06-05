@@ -1,0 +1,27 @@
+.cl-one{
+    width: 1903px; visibility: hidden;
+}
+.cl-two{
+    display: inline; 
+    height: auto; 
+    width: 100%;
+}
+.cl-three{
+    visibility: visible; 
+    animation-duration: 0.9s; 
+    animation-delay: 0s; 
+    animation-name: rotateInDownRight;
+}
+.cl-four{
+    visibility: visible; 
+    animation-duration: 1.2s; 
+    animation-delay: 0.2s; 
+    animation-name: bounceInRight;
+
+}
+.cl-five{
+    visibility: visible; animation-duration: 1.2s; animation-delay: 0.2s; animation-name: slideInRight;
+}
+.cl-six{
+    visibility: visible; animation-duration: 1.3s; animation-delay: 0.5s; animation-name: bounceInUp;
+}
